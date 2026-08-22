@@ -3,11 +3,12 @@
 
 **The Autonomous AI Creative Director** — give it a topic, and it discovers the opportunity, researches it, understands it, chooses the creative strategy, generates three full videos, judges them, learns from the failures, and delivers the best publish-ready 9:16 social video.
 
-Built for **{Tech: Europe} × VEED Hackathon — The Summer Lock-In**.
+Built for **{Tech: Europe} × VEED Hackathon — The Summer Lock-In**.  
 Team: **ViralForge AI** · Builder: **Hossam Elshahaby**
-* **Main App:** [ViralForge AI](https://adaptive-media-lab.lovable.app) 
-* **Other App:** [ViralForge AI](https://aistudio.google.com/apps/5520094d-4a0c-4b19-98b1-a3bbe688d1ae?showPreview=true&showAssistant=true&project=gen-lang-client-0082911806) 
-* **Demo video:** [2 min Video link](https://youtu.be/MoEDxbKMYCE) 
+
+* **Main App:** [ViralForge AI App](https://adaptive-media-lab.lovable.app) — Generates short-form social videos like this sample [YouTube Short](https://youtube.com/shorts/gAGS0657hSw)
+* **Other App:** [ViralForge AI Prototype](https://aistudio.google.com/apps/5520094d-4a0c-4b19-98b1-a3bbe688d1ae?showPreview=true&showAssistant=true&project=gen-lang-client-0082911806) — Generates videos deployed at [Sample Video Runner](https://ais-dev-fmlyxwyvq4pciecy25bmur-762116009020.europe-west2.run.app/)
+* **Demo Video:** [2-Min Hackathon Demo](https://youtu.be/MoEDxbKMYCE)
 
 ---
 

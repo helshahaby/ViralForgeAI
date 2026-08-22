@@ -7,7 +7,7 @@ Built for **{Tech: Europe} × VEED Hackathon — The Summer Lock-In**.
 Team: **ViralForge AI** · Builder: **Hossam Elshahaby**
 
 * **Main App:** [ViralForge AI App](https://adaptive-media-lab.lovable.app) — Generates short-form social videos like this sample [YouTube Short](https://youtube.com/shorts/gAGS0657hSw)
-*  **Main App Frontend Artifacts:** [Code]https://github.com/helshahaby/adaptive-media-lab
+*  **Main App Frontend Artifacts:** [Code]https://github.com/helshahaby/adaptive-media-lab)
 * **Other App:** [ViralForge AI Prototype](https://aistudio.google.com/apps/5520094d-4a0c-4b19-98b1-a3bbe688d1ae?showPreview=true&showAssistant=true&project=gen-lang-client-0082911806) — Generates videos deployed at [Sample Video Runner](https://ais-dev-fmlyxwyvq4pciecy25bmur-762116009020.europe-west2.run.app/)
 * **Demo Video:** [2-Min Hackathon Demo](https://youtu.be/MoEDxbKMYCE)
 
